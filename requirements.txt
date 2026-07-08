@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+numpy
+pyserial
+torch
+scikit-learn
+joblib
+matplotlib
+pandas
+PyYAML
+traci
+sumolib
